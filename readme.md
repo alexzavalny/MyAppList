@@ -19,3 +19,4 @@ Hi! My name is Alex Zavalny and here is my most loved mac apps I use every day.
 # Others
 - [Rocket](https://matthewpalmer.net/rocket/) - Emoji everywhere on macOS
 - [Stats](https://github.com/exelban/stats) - for monitoring your mac stats
+- [Second Clock](https://apps.apple.com/us/app/second-clock/id6450279539) - Second clock in your menu bar
