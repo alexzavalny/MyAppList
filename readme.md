@@ -6,11 +6,16 @@ Hi! My name is Alex Zavalny and here is my most loved mac apps I use every day.
 - [Rider](https://www.jetbrains.com/rider/) - C# IDE for macOS
 - [Zed](https://zedapp.org/) - Code editor that is super fast
 
+# AI
+- [ChatGPT](https://chat.openai.com/) - AI chatbot that I use every day for everything
+
 # Text Editing
 - [Plain Text Editor](https://apps.apple.com/us/app/plain-text-editor/id1572202501) - Simple text editor
 
-# Knowledge Management
+# Productivity
 - [Obsidian](https://obsidian.md/) - Knowledge management tool that saved my life, job and mental health
+- [Horo](https://apps.apple.com/us/app/horo-timer-for-menu-bar/id1437226581) - Pomodoro timer in your menu bar
+- [Homerow](https://homerow.app/) - Keyboard shortcuts for your mac
 
 # Window Management
 - [AltTab](https://alt-tab-macos.netlify.app/) - Windows like alt-tab for macOS
